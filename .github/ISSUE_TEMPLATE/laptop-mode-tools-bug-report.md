@@ -1,9 +1,9 @@
 ---
 name: Laptop Mode Tools Bug Report
 about: Laptop Mode Tools Bug Report
-title: ''
-labels: ''
-assignees: ''
+title: laptop issues
+labels: documentation, enhancement, good first issue
+assignees: violethaze74
 
 ---
 
